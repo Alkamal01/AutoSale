@@ -60,4 +60,4 @@ The specific agent logic can be found in `src/marketing_agent/nodes`.
 *   `evaluator.py`: Analysis logic and memory commits.
 
 ---
-_Engineered by [Your Name]_
+Build with ❤️ by [Kaftrandev](https://github.com/Alkamal01)
